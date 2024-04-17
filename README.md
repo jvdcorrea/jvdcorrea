@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm 27 years old
-
 Currently using Java Spring Boot and learning about Cybersecurity
 
 <!--
