@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm 27 years old
+
+Currently using Java Spring Boot and learning about Cybersecurity
+
 <!--
 **jvdcorrea/jvdcorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
