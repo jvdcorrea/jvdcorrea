@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Currently using Java Spring Boot and learning about Cybersecurity
+Currently using C# and learning about Cybersecurity
+Working as IFS ERP Software Engineer
 
 <!--
 **jvdcorrea/jvdcorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
