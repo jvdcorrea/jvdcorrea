@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Currently using C# and learning about Cybersecurity
-Working as IFS ERP Software Engineer
+Currently using C# and learning about Cybersecurity.
+also working as IFS ERP Software Engineer.
 
 <!--
 **jvdcorrea/jvdcorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
